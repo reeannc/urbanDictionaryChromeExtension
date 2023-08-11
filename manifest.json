@@ -1,0 +1,11 @@
+{
+    "name": "urban dicitionary",
+    "version": "1.0.0",
+    "description": "practicing api",
+    "manifest_version": 3,
+    "author": "reeannchloe",
+    "action": {
+        "default_popup": "chrome.html",
+        "default_title": "urban dictionary"
+    }
+}
